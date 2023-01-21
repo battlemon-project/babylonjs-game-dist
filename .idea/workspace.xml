@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a1ce5e2-5b9b-453b-888d-1a5da030e817" name="Changes" comment="Dev">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/game/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/js/8324.ec92d399.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/js/8324.ec92d399.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/js/app.b996b5ff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/js/app.b996b5ff.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/dmitryalferof/PhpstormProjects/battlemon/babylonjs-game-dist",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -43,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673867861448</updated>
       <workItem from="1673867862683" duration="861000" />
-      <workItem from="1674298378424" duration="1431000" />
+      <workItem from="1674298378424" duration="2237000" />
     </task>
     <task id="LOCAL-00001" summary="Dev">
       <created>1673867890554</created>
@@ -59,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674298410303</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dev">
+      <created>1674301798309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674301798309</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

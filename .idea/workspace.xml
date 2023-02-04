@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc96ab96-16c0-4dc6-8462-d9be819de39b" name="Changes" comment="Dev" />
+    <list default="true" id="dc96ab96-16c0-4dc6-8462-d9be819de39b" name="Changes" comment="Set favicon">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675468332885</updated>
-      <workItem from="1675468334505" duration="2168000" />
+      <workItem from="1675468334505" duration="3458000" />
     </task>
     <task id="LOCAL-00001" summary="Dev">
       <created>1675468628299</created>
@@ -53,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675520463248</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Set favicon">
+      <created>1675520722934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675520722934</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +83,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dev" />
+    <MESSAGE value="Set favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set favicon" />
   </component>
 </project>

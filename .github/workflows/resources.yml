@@ -1,4 +1,4 @@
-name: Upload Website
+name: Init resources
 
 on: workflow_dispatch
 
